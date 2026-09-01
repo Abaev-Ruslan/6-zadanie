@@ -1,0 +1,5 @@
+SQLAlchemy>=2.0.30
+psycopg
+python-dotenv==1.0.0
+fastapi
+uvicorn
